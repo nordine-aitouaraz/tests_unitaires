@@ -1,0 +1,11 @@
+{
+    "name": "etudiant/test-unitaire-calculette",
+    "description": "Tests unitaires PHPUnit pour la calculette PHP",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^12.5"
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}

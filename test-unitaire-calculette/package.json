@@ -1,0 +1,11 @@
+{
+  "name": "test-unitaire-calculette",
+  "version": "1.0.0",
+  "description": "Tests unitaires Jest pour la calculette JavaScript",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
