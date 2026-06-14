@@ -1,0 +1,22 @@
+{
+  "name": "test-unitaire-debutant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Premier projet de tests unitaires avec Jest",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  },
+  "jest": {
+    "testMatch": [
+      "**/*_test.js"
+    ]
+  }
+}
