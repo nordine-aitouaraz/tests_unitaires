@@ -1,0 +1,15 @@
+# Dépendances
+node_modules/
+vendor/
+
+# Caches
+.phpunit.result.cache
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Claude (au cas où)
+.claude/
